@@ -1,1 +1,3 @@
 # IMC.PYTHON
+## Sobre o projeto...
+O projeto mostra seu IMC
